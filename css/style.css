@@ -7,7 +7,15 @@
   --corclara: #DB3838; 
 }
 
+.adm_img_corte {
+  width: 350px;
+  height: 262.5px;
+  overflow:hidden;
+}
 
+.adm_img_corte img {
+  width: auto;
+}   
 
 body {
   background: #fff;
