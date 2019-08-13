@@ -1,1 +1,1 @@
-[Live Preview](https://luidyvcc.github.io/pilar/)
+https://luidyvcc.github.io/pilar
